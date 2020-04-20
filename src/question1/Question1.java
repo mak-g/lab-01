@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Question1 {
     public static void main(String args[])
     {
-
+        //MAYANK GOYAL SECTION_D R_NUMBER_26
         Scanner sc = new Scanner(System.in);
         Question1 obj = new Question1();
         System.out.println("Enter the size of the array");
